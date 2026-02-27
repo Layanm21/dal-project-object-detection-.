@@ -1,0 +1,10 @@
+path: C:\Users\the user\Desktop\dal
+train: images/train
+val: images/val
+test: images/test
+nc: 4
+names:
+- shemagh
+- ghutra
+- dal
+- traditional-headdress

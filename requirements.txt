@@ -1,0 +1,12 @@
+ultralytics>=8.0.0
+opencv-python
+torch
+torchvision
+numpy
+pandas
+kaggle
+pyyaml
+pillow
+matplotlib
+scikit-learn
+tqdm
